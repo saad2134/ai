@@ -22,7 +22,7 @@ print("Range of 0 and 10 at 2:\n",a2)
 
 # Method 7 linspace() - specific no. of numbers between 2 values
 a3 = np.linspace(0, 1, 5)
-print("5 numbers between 0 and 1:\n",a2)
+print("5 numbers between 0 and 1:\n",a3)
 
 # Method 8 dot() - Dot product of 2 arrays
 print("Dot product of values of a:\n",np.dot(a,a))
