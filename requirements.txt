@@ -1,0 +1,87 @@
+# Core Python utilities
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+tqdm
+scikit-learn
+joblib
+pillow
+requests
+pyyaml
+opencv-python
+ipython
+notebook
+jupyterlab
+plotly
+sympy
+
+# Deep Learning Frameworks
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+jax
+flax
+optax
+
+# NLP (Natural Language Processing)
+transformers
+datasets
+sentencepiece
+nltk
+spacy
+gensim
+evaluate
+accelerate
+tokenizers
+
+# Computer Vision
+opencv-python-headless
+albumentations
+imageio
+mediapipe
+scikit-image
+
+# Reinforcement Learning
+gymnasium
+stable-baselines3
+ray[rllib]
+
+# Model Serving / Deployment
+onnx
+onnxruntime
+torchserve
+fastapi
+uvicorn
+gradio
+streamlit
+
+# Data Engineering / Big Data
+dask
+pyspark
+pyarrow
+
+# Experiment Tracking / Management
+mlflow
+wandb
+tensorboard
+
+# Visualization / Explainability
+shap
+lime
+yellowbrick
+
+# Utilities for AI workflows
+rich
+hydra-core
+omegaconf
+pydantic
+loguru
+
+# Optional performance / GPU utilities
+cupy-cuda12x
+numba
+nvidia-ml-py3
