@@ -231,7 +231,8 @@ Various Artificial Intelligence (AI) programs for solving problems, searching an
 ---
 
 ## 🛠️ Tools and Frameworks
-- Python download link: https://www.python.org/downloads/
+- Python (Undisputed main language in AI)
+    - https://www.python.org/downloads/
 - Python packages:
     ```bash
     pip install -r requirements.txt`
@@ -246,9 +247,19 @@ Various Artificial Intelligence (AI) programs for solving problems, searching an
     - ONNX
     - FastAI
     - LangChain (for LLM applications)
-    and more
-- Julia download link: https://julialang.org/downloads/
-- Prolog download link: https://www.swi-prolog.org/download/stable 
+    - & more
+- SQL (Data is the fuel for AI and SQL is the main language in data)
+    - https://www.mysql.com/downloads/
+- C/C++ (Performance-critical AI systems)
+    - https://visualstudio.microsoft.com/vs/features/cplusplus/
+- R (Statistical analysis and research)
+    - https://cran.rstudio.com/
+- Java (Enterprise AI systems)
+    - https://www.java.com/en/
+- Julia (New emerging language)
+    - https://julialang.org/downloads/
+- Prolog (language for simple relational statements)
+    - https://www.swi-prolog.org/download/stable 
 
 ---
 
