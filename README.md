@@ -220,7 +220,7 @@ Various Artificial Intelligence (AI) programs for solving problems, searching an
 - Mixed Precision Training
 - Hyperparameter Optimization (Optuna, Ray Tune)
 
-### 11. Evaluation and Benchmarking
+### 11. Evaluation and Benchmarking 
 - Confusion Matrix, ROC-AUC, Precision/Recall
 - BLEU, ROUGE, and METEOR (NLP metrics)
 - Intersection over Union (IoU) for Vision
