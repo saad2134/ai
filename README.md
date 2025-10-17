@@ -265,4 +265,4 @@ Various Artificial Intelligence (AI) programs for solving problems, searching an
 
 ## ✍️ Endnote
 
-Thanks for reading!
+<p align="center">⭐ Star this repo if you found it helpful! Thanks for reading.</p>
