@@ -15,6 +15,7 @@ from nltk.tokenize import word_tokenize
 # Download required NLTK data
 nltk.download('punkt', quiet=True)
 nltk.download('averaged_perceptron_tagger', quiet=True)
+nltk.download('averaged_perceptron_tagger_eng', quiet=True)
 
 text = "NLTK is great for text processing."
 words = word_tokenize(text)
