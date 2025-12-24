@@ -70,9 +70,11 @@ def hangman():
             break
 
         g = input("Guess a letter: ").lower()
+
         if len(g) != 1 or not g.isalpha():
             print("Invalid input. Please enter a single alphabetic letter.")
             continue
+        
         if g in guessed:
             print("You already guessed that letter.")
             continue
