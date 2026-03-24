@@ -1,0 +1,59 @@
+a: [1 2 3 4]
+Sum: 10
+Product: 24
+Mean: 2.5
+Reshape 2x2:
+ [[1 2]
+ [3 4]]
+Range of 0 and 10 at 2:
+ [0 2 4 6 8]
+5 numbers between 0 and 1:
+ [0.   0.25 0.5  0.75 1.  ]
+Dot product of values of a:
+ 30
+Median of values of a:
+ 2.5
+Standard deviation of values of a:
+ 1.118033988749895
+---------------------------------------------------------------------------------------------------------
+      Name  Age      City
+0    Alice   20  New York
+1      Bob   24    London
+2  Charlie   28     Paris 
+
+Top 10:
+    num
+0    1
+1    2
+2    3
+3    4
+4    5
+5    6
+6    7
+7    8
+8    9
+9   10
+Bottom 10:
+     num
+10   11
+11   12
+12   13
+13   14
+14   15
+15   16
+16   17
+17   18
+18   19
+19   20
+
+Dimensions: (3, 2)
+
+Row at index 3:
+ x     40
+y    400
+Name: 3, dtype: int64
+-----------------------------------------------------------------------------------------------------------
+x = 1.0
+y = 2.0
+Minimum value: 0.0
+At x = [-2.00000002]
